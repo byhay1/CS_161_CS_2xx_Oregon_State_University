@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<EditorTabsLayout layout="0a4be8f856c4a78800005ea700000002=0;FG(3):src\Barbarian.cpp,1;FG(3):include\Medusa.h,2;FG(3):src\Medusa.cpp,3;FG(3):include\Vampire.h,4;FG(3):src\Vampire.cpp,5;FG(3):src\BlueMen.cpp,6;FG(3):include\HarryPotter.h,7;FG(3):src\HarryPotter.cpp,8;FG(3):include\Creature.h,*9;FG(3):src\Creature.cpp,10;FG(3):src\main.cpp,11;FG(3):include\Barbarian.h,12;FG(3):include\BlueMen.h@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=577;besth=216;minw=577;minh=216;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0a4be8f856c4a78800005ea700000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>

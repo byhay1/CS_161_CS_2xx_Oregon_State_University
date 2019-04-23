@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1456712193 source:c:\users\byron\documents\codeblocks\fangam\src\barbarian.cpp
+	"Barbarian.h"
+
+1456713894 c:\users\byron\documents\codeblocks\fangam\include\barbarian.h
+	<stdio.h>
+	"Creature.h"
+
+1456712885 c:\users\byron\documents\codeblocks\fangam\include\creature.h
+	<iostream>
+	<random>
+
+1456712976 source:c:\users\byron\documents\codeblocks\fangam\src\creature.cpp
+	"Creature.h"
+
+1456713831 source:c:\users\byron\documents\codeblocks\fangam\src\harrypotter.cpp
+	"HarryPotter.h"
+
+1456714561 c:\users\byron\documents\codeblocks\fangam\include\harrypotter.h
+	<stdio.h>
+	"Creature.h"
+
+1456713947 source:c:\users\byron\documents\codeblocks\fangam\src\medusa.cpp
+	"Medusa.h"
+
+1456713871 c:\users\byron\documents\codeblocks\fangam\include\medusa.h
+	<stdio.h>
+	"Creature.h"
+
+1456714053 source:c:\users\byron\documents\codeblocks\fangam\src\vampire.cpp
+	"Vampire.h"
+
+1456713977 c:\users\byron\documents\codeblocks\fangam\include\vampire.h
+	<stdio.h>
+	"Creature.h"
+

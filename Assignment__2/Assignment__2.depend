@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1454035564 source:c:\users\byron\documents\codeblocks\assignment__2\src\item.cpp
+	"Item.h"
+	<iostream>
+	<stdio.h>
+	<string>
+	<string.h>
+
+1454034108 c:\users\byron\documents\codeblocks\assignment__2\include\item.h
+	<string>
+
+1454036923 source:c:\users\byron\documents\codeblocks\assignment__2\src\list.cpp
+	"List.h"
+	<iostream>
+
+1454036756 c:\users\byron\documents\codeblocks\assignment__2\include\list.h
+	"Item.h"
+
+1454035848 source:c:\users\byron\documents\codeblocks\assignment__2\src\main.cpp
+	<iostream>
+	<cmath>
+	<climits>
+	"List.h"
+

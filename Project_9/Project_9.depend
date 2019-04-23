@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1448249167 source:c:\users\byron\documents\codeblocks\project_9\intset.cpp
+	"IntSet.hpp"
+	<iostream>
+	<cstdlib>
+
+1448249400 c:\users\byron\documents\codeblocks\project_9\include\intset.hpp
+	<iostream>
+	<cstdlib>
+

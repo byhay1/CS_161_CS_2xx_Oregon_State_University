@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1452968222 source:c:\users\byron\documents\codeblocks\gogame\main.cpp
+	"Game.h"
+	<iostream>
+
+1452967765 c:\users\byron\documents\codeblocks\gogame\game.h
+	"Shapes.h"
+	<iostream>
+	<cmath>
+
+1452966415 c:\users\byron\documents\codeblocks\gogame\shapes.h
+	<iostream>
+	<cmath>
+	"Grid.h"
+
+1452966459 c:\users\byron\documents\codeblocks\gogame\grid.h
+	<iostream>
+	<math.h>
+
